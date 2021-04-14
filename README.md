@@ -1,4 +1,4 @@
 # hello-world
 
-Hi ,  i am ratan, I like to code and make world simpler. I am RPA enthusiast
+Hi ,  I am Ratan, I like to code and make world simpler. I am Python, RPA, Azure enthusiast.
 
