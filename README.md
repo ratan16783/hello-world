@@ -1,3 +1,2 @@
-# hello-world
+my linkedin profile is https://www.linkedin.com/in/ratan-gawai-166333a/
 
-Hi ,  I am Ratan, I like to code and make world simpler. I am Python, RPA, Azure enthusiast.
